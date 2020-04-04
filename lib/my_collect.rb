@@ -6,4 +6,5 @@ def my_collect (array)
     i=i+1 
     capitalized_languages << i 
   end 
+  capitalized_languages
 end 
